@@ -9,7 +9,6 @@ Dự án là đề tài môn Thực tập cơ sở tại Học viện Công ngh�
 - [Giới thiệu](#giới-thiệu)
 - [Thuật toán](#thuật-toán)
 - [Kết quả](#kết-quả)
-- [Liên hệ](#liên-hệ)
 
 ## Giới thiệu:
 
